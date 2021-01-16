@@ -14,7 +14,7 @@ body {
     margin-top: 25%;
     margin-left: 10%;
     margin-right: 10%;
-
+    font-size: 1vw;
     background-color:#181716;
     font-family: "raleway-regular", sans-serif;
     color: #BCB6B0;
@@ -34,6 +34,7 @@ h1 {
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-size: 0.75vw;
     
 }
 
