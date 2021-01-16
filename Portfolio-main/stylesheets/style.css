@@ -1,0 +1,55 @@
+/* FONTS */
+
+@font-face {
+    font-family: raleway-regular;
+    src: url("../fonts/Raleway-Regular.ttf");
+}
+
+
+/* Tags */
+
+
+
+body {
+    margin-top: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    background-color:#181716;
+    font-family: "raleway-regular", sans-serif;
+    color: #BCB6B0;
+}
+
+h1 {
+    
+}
+
+.navbar {
+    margin-top: -25%;
+    float: right;   
+}
+
+.main-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    
+}
+
+.main-nav li {
+    display: inline-block;
+    padding-left: 2em;
+    
+}
+.nav-link {
+    color: #A5A09B;
+    text-decoration: none;
+    font-family: "raleway-regular", sans-serif;
+}
+
+#base-text {
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+}
